@@ -1,0 +1,6 @@
+{
+  "name": "FinancePro",
+  "description": "Professional Finance Management and Loan Collection System with multi-role dashboards and field collection management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
